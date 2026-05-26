@@ -1,0 +1,1502 @@
+[
+{
+  "_id": "79cb73e48e7b1e83e1561001",
+  "status": "FIRED",
+  "amount": 1048,
+  "scheme": "fonepay",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81501",
+  "device": {
+    "prefix": "IPNT",
+    "serial_number": "38251129606401",
+    "model": "ET389",
+    "type": "static",
+    "service_type": "NOTIFY"
+  },
+  "created_at": "2026-03-31T07:12:36.124+00:00"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561002",
+  "status": "SUCCESS",
+  "amount": 2200,
+  "scheme": "gpay",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81502",
+  "device": {
+    "prefix": "MD",
+    "serial_number": "38251129606402",
+    "model": "ET390Lite",
+    "type": "dynamic",
+    "service_type": "PAYMENT"
+  },
+  "created_at": "2026/04/01"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561003",
+  "status": "FAILED",
+  "amount": -500,
+  "scheme": "paytm",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81503",
+  "device": {
+    "prefix": "QR",
+    "serial_number": null,
+    "model": "ET500Pro",
+    "type": "unknown",
+    "service_type": "REFUND"
+  },
+  "created_at": "2026-13-01"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561004",
+  "status": "PENDING",
+  "amount": "1200",
+  "scheme": "phonepe",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81504",
+  "device": {
+    "prefix": "IPNT",
+    "serial_number": "38251129606404",
+    "model": "ET389Pro A10",
+    "type": "static",
+    "service_type": "NOTIFY"
+  },
+  "created_at": "2026-04-04"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561005",
+  "status": null,
+  "amount": 3400,
+  "scheme": "bhim",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81505",
+  "device": {
+    "prefix": "MD",
+    "serial_number": "38251129606405",
+    "model": "ET400Max",
+    "type": "dynamic",
+    "service_type": "PAYMENT"
+  },
+  "created_at": "2026-04-05"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561006",
+  "status": "SUCCESS",
+  "amount": 900,
+  "scheme": "gpay",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81506",
+  "device": {
+    "prefix": "QR",
+    "serial_number": "38251129606406",
+    "model": "ET389",
+    "type": "static",
+    "service_type": "PAYMENT"
+  },
+  "created_at": "06-04-2026"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561007",
+  "status": "FIRED",
+  "amount": "abc",
+  "scheme": "unknown",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81507",
+  "device": {
+    "prefix": "IPNT",
+    "serial_number": "38251129606407",
+    "model": "ET390Lite",
+    "type": "dynamic",
+    "service_type": "INVALID"
+  },
+  "created_at": "2026-04-07"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561008",
+  "status": "FAILED",
+  "amount": 700,
+  "scheme": "phonepe",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81508",
+  "device": {
+    "prefix": "MD",
+    "serial_number": "38251129606408",
+    "model": null,
+    "type": "static",
+    "service_type": "REFUND"
+  },
+  "created_at": "2026/04/08"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561009",
+  "status": "SUCCESS",
+  "amount": 5400,
+  "scheme": "bhim",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81509",
+  "device": {
+    "prefix": "QR",
+    "serial_number": "38251129606409",
+    "model": "ET500Pro",
+    "type": "dynamic",
+    "service_type": "PAYMENT"
+  },
+  "created_at": "2026-04-09"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561010",
+  "status": "PENDING",
+  "amount": 1800,
+  "scheme": "gpay",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81502",
+  "device": {
+    "prefix": "IPNT",
+    "serial_number": "38251129606402",
+    "model": "ET389Pro A10",
+    "type": "unknown",
+    "service_type": "NOTIFY"
+  },
+  "created_at": ""
+},
+{
+  "_id": "79cb73e48e7b1e83e1561011",
+  "status": "SUCCESS",
+  "amount": 1500,
+  "scheme": "paytm",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81511",
+  "device": {
+    "prefix": "MD",
+    "serial_number": "38251129606411",
+    "model": "ET389",
+    "type": "static",
+    "service_type": "PAYMENT"
+  },
+  "created_at": "2026-04-11"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561012",
+  "status": "FAILED",
+  "amount": -120,
+  "scheme": "gpay",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81512",
+  "device": {
+    "prefix": "QR",
+    "serial_number": null,
+    "model": "ET400Max",
+    "type": "dynamic",
+    "service_type": "REFUND"
+  },
+  "created_at": "12-04-2026"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561013",
+  "status": "SUCCESS",
+  "amount": 2300,
+  "scheme": "phonepe",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81513",
+  "device": {
+    "prefix": "IPNT",
+    "serial_number": "38251129606413",
+    "model": "ET500Pro",
+    "type": "dynamic",
+    "service_type": "PAYMENT"
+  },
+  "created_at": "2026/04/13"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561014",
+  "status": null,
+  "amount": 4100,
+  "scheme": "bhim",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81514",
+  "device": {
+    "prefix": "MD",
+    "serial_number": "38251129606414",
+    "model": "ET390Lite",
+    "type": "unknown",
+    "service_type": "INVALID"
+  },
+  "created_at": "2026-04-14"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561015",
+  "status": "PENDING",
+  "amount": "2000",
+  "scheme": "paytm",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81515",
+  "device": {
+    "prefix": "QR",
+    "serial_number": "38251129606415",
+    "model": null,
+    "type": "static",
+    "service_type": "NOTIFY"
+  },
+  "created_at": null
+},
+{
+  "_id": "79cb73e48e7b1e83e1561016",
+  "status": "SUCCESS",
+  "amount": 6100,
+  "scheme": "gpay",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81516",
+  "device": {
+    "prefix": "IPNT",
+    "serial_number": "38251129606416",
+    "model": "ET389Pro A10",
+    "type": "dynamic",
+    "service_type": "PAYMENT"
+  },
+  "created_at": "2026-04-16"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561017",
+  "status": "FAILED",
+  "amount": 890,
+  "scheme": "phonepe",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81517",
+  "device": {
+    "prefix": "MD",
+    "serial_number": "38251129606417",
+    "model": "ET400Max",
+    "type": "static",
+    "service_type": "REFUND"
+  },
+  "created_at": "2026/04/17"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561018",
+  "status": "SUCCESS",
+  "amount": 7200,
+  "scheme": "paytm",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81518",
+  "device": {
+    "prefix": "QR",
+    "serial_number": "38251129606418",
+    "model": "ET389",
+    "type": "dynamic",
+    "service_type": "PAYMENT"
+  },
+  "created_at": ""
+},
+{
+  "_id": "79cb73e48e7b1e83e1561019",
+  "status": "FIRED",
+  "amount": 950,
+  "scheme": "bhim",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81519",
+  "device": {
+    "prefix": "IPNT",
+    "serial_number": "38251129606419",
+    "model": "ET500Pro",
+    "type": "static",
+    "service_type": "NOTIFY"
+  },
+  "created_at": "2026-04-19"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561020",
+  "status": "SUCCESS",
+  "amount": 3100,
+  "scheme": "gpay",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81511",
+  "device": {
+    "prefix": "MD",
+    "serial_number": "38251129606411",
+    "model": "ET389Pro A10",
+    "type": "unknown",
+    "service_type": "PAYMENT"
+  },
+  "created_at": "2026-04-20"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561021",
+  "status": "SUCCESS",
+  "amount": 2800,
+  "scheme": "phonepe",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81521",
+  "device": {
+    "prefix": "QR",
+    "serial_number": "38251129606421",
+    "model": "ET390Lite",
+    "type": "dynamic",
+    "service_type": "PAYMENT"
+  },
+  "created_at": "2026-04-21"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561022",
+  "status": "FAILED",
+  "amount": -300,
+  "scheme": "gpay",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81522",
+  "device": {
+    "prefix": "IPNT",
+    "serial_number": null,
+    "model": "ET389",
+    "type": "static",
+    "service_type": "REFUND"
+  },
+  "created_at": "22-04-2026"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561023",
+  "status": "PENDING",
+  "amount": "1800",
+  "scheme": "paytm",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81523",
+  "device": {
+    "prefix": "MD",
+    "serial_number": "38251129606423",
+    "model": "ET500Pro",
+    "type": "dynamic",
+    "service_type": "NOTIFY"
+  },
+  "created_at": "2026/04/23"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561024",
+  "status": null,
+  "amount": 4200,
+  "scheme": "bhim",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81524",
+  "device": {
+    "prefix": "QR",
+    "serial_number": "38251129606424",
+    "model": "ET400Max",
+    "type": "unknown",
+    "service_type": "INVALID"
+  },
+  "created_at": "2026-04-24"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561025",
+  "status": "SUCCESS",
+  "amount": 5100,
+  "scheme": "gpay",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81525",
+  "device": {
+    "prefix": "IPNT",
+    "serial_number": "38251129606425",
+    "model": null,
+    "type": "static",
+    "service_type": "PAYMENT"
+  },
+  "created_at": null
+},
+{
+  "_id": "79cb73e48e7b1e83e1561026",
+  "status": "FIRED",
+  "amount": "abc",
+  "scheme": "unknown",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81526",
+  "device": {
+    "prefix": "MD",
+    "serial_number": "38251129606426",
+    "model": "ET389Pro A10",
+    "type": "dynamic",
+    "service_type": "INVALID"
+  },
+  "created_at": "2026-04-26"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561027",
+  "status": "SUCCESS",
+  "amount": 3300,
+  "scheme": "phonepe",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81527",
+  "device": {
+    "prefix": "QR",
+    "serial_number": "38251129606427",
+    "model": "ET390Lite",
+    "type": "static",
+    "service_type": "PAYMENT"
+  },
+  "created_at": "2026/04/27"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561028",
+  "status": "FAILED",
+  "amount": 640,
+  "scheme": "paytm",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81528",
+  "device": {
+    "prefix": "IPNT",
+    "serial_number": "38251129606428",
+    "model": "ET389",
+    "type": "dynamic",
+    "service_type": "REFUND"
+  },
+  "created_at": ""
+},
+{
+  "_id": "79cb73e48e7b1e83e1561029",
+  "status": "SUCCESS",
+  "amount": 8700,
+  "scheme": "bhim",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81529",
+  "device": {
+    "prefix": "MD",
+    "serial_number": "38251129606429",
+    "model": "ET500Pro",
+    "type": "static",
+    "service_type": "PAYMENT"
+  },
+  "created_at": "2026-04-29"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561030",
+  "status": "PENDING",
+  "amount": 1500,
+  "scheme": "gpay",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81521",
+  "device": {
+    "prefix": "QR",
+    "serial_number": "38251129606421",
+    "model": "ET389Pro A10",
+    "type": "unknown",
+    "service_type": "NOTIFY"
+  },
+  "created_at": "2026-04-30"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561031",
+  "status": "SUCCESS",
+  "amount": 2600,
+  "scheme": "phonepe",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81531",
+  "device": {
+    "prefix": "IPNT",
+    "serial_number": "38251129606431",
+    "model": "ET400Max",
+    "type": "dynamic",
+    "service_type": "PAYMENT"
+  },
+  "created_at": "2026-05-01"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561032",
+  "status": "FAILED",
+  "amount": -700,
+  "scheme": "gpay",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81532",
+  "device": {
+    "prefix": "MD",
+    "serial_number": null,
+    "model": "ET389",
+    "type": "static",
+    "service_type": "REFUND"
+  },
+  "created_at": "02-05-2026"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561033",
+  "status": "SUCCESS",
+  "amount": 4900,
+  "scheme": "paytm",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81533",
+  "device": {
+    "prefix": "QR",
+    "serial_number": "38251129606433",
+    "model": "ET500Pro",
+    "type": "dynamic",
+    "service_type": "PAYMENT"
+  },
+  "created_at": "2026/05/03"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561034",
+  "status": null,
+  "amount": 900,
+  "scheme": "bhim",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81534",
+  "device": {
+    "prefix": "IPNT",
+    "serial_number": "38251129606434",
+    "model": "ET390Lite",
+    "type": "unknown",
+    "service_type": "INVALID"
+  },
+  "created_at": "2026-05-04"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561035",
+  "status": "SUCCESS",
+  "amount": "2100",
+  "scheme": "gpay",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81535",
+  "device": {
+    "prefix": "MD",
+    "serial_number": "38251129606435",
+    "model": null,
+    "type": "static",
+    "service_type": "PAYMENT"
+  },
+  "created_at": ""
+},
+{
+  "_id": "79cb73e48e7b1e83e1561036",
+  "status": "FIRED",
+  "amount": 7600,
+  "scheme": "gpay",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81536",
+  "device": {
+    "prefix": "QR",
+    "serial_number": "38251129606436",
+    "model": "ET389Pro A10",
+    "type": "dynamic",
+    "service_type": "NOTIFY"
+  },
+  "created_at": "2026-05-06"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561037",
+  "status": "FAILED",
+  "amount": 880,
+  "scheme": "phonepe",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81537",
+  "device": {
+    "prefix": "IPNT",
+    "serial_number": "38251129606437",
+    "model": "ET400Max",
+    "type": "static",
+    "service_type": "REFUND"
+  },
+  "created_at": "2026/05/07"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561038",
+  "status": "SUCCESS",
+  "amount": 6900,
+  "scheme": "paytm",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81538",
+  "device": {
+    "prefix": "MD",
+    "serial_number": "38251129606438",
+    "model": "ET389",
+    "type": "dynamic",
+    "service_type": "PAYMENT"
+  },
+  "created_at": null
+},
+{
+  "_id": "79cb73e48e7b1e83e1561039",
+  "status": "FIRED",
+  "amount": 1200,
+  "scheme": "bhim",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81539",
+  "device": {
+    "prefix": "QR",
+    "serial_number": "38251129606439",
+    "model": "ET500Pro",
+    "type": "static",
+    "service_type": "NOTIFY"
+  },
+  "created_at": "2026-05-09"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561040",
+  "status": "SUCCESS",
+  "amount": 3400,
+  "scheme": "gpay",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81531",
+  "device": {
+    "prefix": "IPNT",
+    "serial_number": "38251129606431",
+    "model": "ET389Pro A10",
+    "type": "unknown",
+    "service_type": "PAYMENT"
+  },
+  "created_at": "2026-05-10"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561041",
+  "status": "SUCCESS",
+  "amount": 4100,
+  "scheme": "phonepe",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81541",
+  "device": {
+    "prefix": "MD",
+    "serial_number": "38251129606441",
+    "model": "ET389",
+    "type": "static",
+    "service_type": "PAYMENT"
+  },
+  "created_at": "2026-05-11"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561042",
+  "status": "FAILED",
+  "amount": -250,
+  "scheme": "gpay",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81542",
+  "device": {
+    "prefix": "QR",
+    "serial_number": null,
+    "model": "ET390Lite",
+    "type": "dynamic",
+    "service_type": "REFUND"
+  },
+  "created_at": "12-05-2026"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561043",
+  "status": "PENDING",
+  "amount": "1800",
+  "scheme": "paytm",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81543",
+  "device": {
+    "prefix": "IPNT",
+    "serial_number": "38251129606443",
+    "model": "ET500Pro",
+    "type": "dynamic",
+    "service_type": "NOTIFY"
+  },
+  "created_at": "2026/05/13"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561044",
+  "status": null,
+  "amount": 5200,
+  "scheme": "bhim",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81544",
+  "device": {
+    "prefix": "MD",
+    "serial_number": "38251129606444",
+    "model": "ET400Max",
+    "type": "unknown",
+    "service_type": "INVALID"
+  },
+  "created_at": ""
+},
+{
+  "_id": "79cb73e48e7b1e83e1561045",
+  "status": "SUCCESS",
+  "amount": 6300,
+  "scheme": "gpay",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81545",
+  "device": {
+    "prefix": "QR",
+    "serial_number": "38251129606445",
+    "model": null,
+    "type": "static",
+    "service_type": "PAYMENT"
+  },
+  "created_at": null
+},
+{
+  "_id": "79cb73e48e7b1e83e1561046",
+  "status": "FIRED",
+  "amount": "abc",
+  "scheme": "unknown",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81546",
+  "device": {
+    "prefix": "IPNT",
+    "serial_number": "38251129606446",
+    "model": "ET389Pro A10",
+    "type": "dynamic",
+    "service_type": "INVALID"
+  },
+  "created_at": "2026-05-16"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561047",
+  "status": "SUCCESS",
+  "amount": 2750,
+  "scheme": "phonepe",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81547",
+  "device": {
+    "prefix": "MD",
+    "serial_number": "38251129606447",
+    "model": "ET389",
+    "type": "static",
+    "service_type": "PAYMENT"
+  },
+  "created_at": "2026/05/17"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561048",
+  "status": "FAILED",
+  "amount": 890,
+  "scheme": "paytm",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81548",
+  "device": {
+    "prefix": "QR",
+    "serial_number": "38251129606448",
+    "model": "ET390Lite",
+    "type": "dynamic",
+    "service_type": "REFUND"
+  },
+  "created_at": "2026-05-18"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561049",
+  "status": "SUCCESS",
+  "amount": 7100,
+  "scheme": "bhim",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81549",
+  "device": {
+    "prefix": "IPNT",
+    "serial_number": "38251129606449",
+    "model": "ET500Pro",
+    "type": "static",
+    "service_type": "PAYMENT"
+  },
+  "created_at": "2026-05-19"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561050",
+  "status": "PENDING",
+  "amount": 1600,
+  "scheme": "gpay",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81541",
+  "device": {
+    "prefix": "MD",
+    "serial_number": "38251129606441",
+    "model": "ET389Pro A10",
+    "type": "unknown",
+    "service_type": "NOTIFY"
+  },
+  "created_at": "2026-05-20"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561051",
+  "status": "SUCCESS",
+  "amount": 3000,
+  "scheme": "phonepe",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81551",
+  "device": {
+    "prefix": "QR",
+    "serial_number": "38251129606451",
+    "model": "ET400Max",
+    "type": "dynamic",
+    "service_type": "PAYMENT"
+  },
+  "created_at": "2026-05-21"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561052",
+  "status": "FAILED",
+  "amount": -600,
+  "scheme": "gpay",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81552",
+  "device": {
+    "prefix": "IPNT",
+    "serial_number": null,
+    "model": "ET389",
+    "type": "static",
+    "service_type": "REFUND"
+  },
+  "created_at": "22-05-2026"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561053",
+  "status": "SUCCESS",
+  "amount": "2500",
+  "scheme": "paytm",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81553",
+  "device": {
+    "prefix": "MD",
+    "serial_number": "38251129606453",
+    "model": "ET500Pro",
+    "type": "dynamic",
+    "service_type": "PAYMENT"
+  },
+  "created_at": ""
+},
+{
+  "_id": "79cb73e48e7b1e83e1561054",
+  "status": null,
+  "amount": 900,
+  "scheme": "bhim",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81554",
+  "device": {
+    "prefix": "QR",
+    "serial_number": "38251129606454",
+    "model": "ET390Lite",
+    "type": "unknown",
+    "service_type": "INVALID"
+  },
+  "created_at": "2026-05-24"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561055",
+  "status": "SUCCESS",
+  "amount": 4800,
+  "scheme": "gpay",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81555",
+  "device": {
+    "prefix": "IPNT",
+    "serial_number": "38251129606455",
+    "model": null,
+    "type": "static",
+    "service_type": "PAYMENT"
+  },
+  "created_at": "2026-05-25"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561056",
+  "status": "FIRED",
+  "amount": 8200,
+  "scheme": "gpay",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81556",
+  "device": {
+    "prefix": "MD",
+    "serial_number": "38251129606456",
+    "model": "ET389Pro A10",
+    "type": "dynamic",
+    "service_type": "NOTIFY"
+  },
+  "created_at": "2026-05-26"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561057",
+  "status": "FAILED",
+  "amount": 950,
+  "scheme": "phonepe",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81557",
+  "device": {
+    "prefix": "QR",
+    "serial_number": "38251129606457",
+    "model": "ET400Max",
+    "type": "static",
+    "service_type": "REFUND"
+  },
+  "created_at": "2026/05/27"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561058",
+  "status": "SUCCESS",
+  "amount": 5600,
+  "scheme": "paytm",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81558",
+  "device": {
+    "prefix": "IPNT",
+    "serial_number": "38251129606458",
+    "model": "ET389",
+    "type": "dynamic",
+    "service_type": "PAYMENT"
+  },
+  "created_at": null
+},
+{
+  "_id": "79cb73e48e7b1e83e1561059",
+  "status": "FIRED",
+  "amount": 1400,
+  "scheme": "bhim",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81559",
+  "device": {
+    "prefix": "MD",
+    "serial_number": "38251129606459",
+    "model": "ET500Pro",
+    "type": "static",
+    "service_type": "NOTIFY"
+  },
+  "created_at": "2026-05-29"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561060",
+  "status": "SUCCESS",
+  "amount": 3500,
+  "scheme": "gpay",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81551",
+  "device": {
+    "prefix": "QR",
+    "serial_number": "38251129606451",
+    "model": "ET389Pro A10",
+    "type": "unknown",
+    "service_type": "PAYMENT"
+  },
+  "created_at": "2026-05-30"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561061",
+  "status": "SUCCESS",
+  "amount": 4200,
+  "scheme": "phonepe",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81561",
+  "device": {
+    "prefix": "IPNT",
+    "serial_number": "38251129606461",
+    "model": "ET390Lite",
+    "type": "dynamic",
+    "service_type": "PAYMENT"
+  },
+  "created_at": "2026-06-01"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561062",
+  "status": "FAILED",
+  "amount": -450,
+  "scheme": "gpay",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81562",
+  "device": {
+    "prefix": "MD",
+    "serial_number": null,
+    "model": "ET389",
+    "type": "static",
+    "service_type": "REFUND"
+  },
+  "created_at": "02-06-2026"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561063",
+  "status": "PENDING",
+  "amount": "2100",
+  "scheme": "paytm",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81563",
+  "device": {
+    "prefix": "QR",
+    "serial_number": "38251129606463",
+    "model": "ET500Pro",
+    "type": "dynamic",
+    "service_type": "NOTIFY"
+  },
+  "created_at": "2026/06/03"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561064",
+  "status": null,
+  "amount": 5100,
+  "scheme": "bhim",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81564",
+  "device": {
+    "prefix": "IPNT",
+    "serial_number": "38251129606464",
+    "model": "ET400Max",
+    "type": "unknown",
+    "service_type": "INVALID"
+  },
+  "created_at": ""
+},
+{
+  "_id": "79cb73e48e7b1e83e1561065",
+  "status": "SUCCESS",
+  "amount": 6700,
+  "scheme": "gpay",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81565",
+  "device": {
+    "prefix": "MD",
+    "serial_number": "38251129606465",
+    "model": null,
+    "type": "static",
+    "service_type": "PAYMENT"
+  },
+  "created_at": null
+},
+{
+  "_id": "79cb73e48e7b1e83e1561066",
+  "status": "FIRED",
+  "amount": "abc",
+  "scheme": "unknown",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81566",
+  "device": {
+    "prefix": "QR",
+    "serial_number": "38251129606466",
+    "model": "ET389Pro A10",
+    "type": "dynamic",
+    "service_type": "INVALID"
+  },
+  "created_at": "2026-06-06"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561067",
+  "status": "SUCCESS",
+  "amount": 2950,
+  "scheme": "phonepe",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81567",
+  "device": {
+    "prefix": "IPNT",
+    "serial_number": "38251129606467",
+    "model": "ET390Lite",
+    "type": "static",
+    "service_type": "PAYMENT"
+  },
+  "created_at": "2026/06/07"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561068",
+  "status": "FAILED",
+  "amount": 870,
+  "scheme": "paytm",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81568",
+  "device": {
+    "prefix": "MD",
+    "serial_number": "38251129606468",
+    "model": "ET389",
+    "type": "dynamic",
+    "service_type": "REFUND"
+  },
+  "created_at": "2026-06-08"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561069",
+  "status": "SUCCESS",
+  "amount": 7800,
+  "scheme": "bhim",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81569",
+  "device": {
+    "prefix": "QR",
+    "serial_number": "38251129606469",
+    "model": "ET500Pro",
+    "type": "static",
+    "service_type": "PAYMENT"
+  },
+  "created_at": "2026-06-09"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561070",
+  "status": "PENDING",
+  "amount": 1300,
+  "scheme": "gpay",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81561",
+  "device": {
+    "prefix": "IPNT",
+    "serial_number": "38251129606461",
+    "model": "ET389Pro A10",
+    "type": "unknown",
+    "service_type": "NOTIFY"
+  },
+  "created_at": "2026-06-10"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561071",
+  "status": "SUCCESS",
+  "amount": 3600,
+  "scheme": "phonepe",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81571",
+  "device": {
+    "prefix": "MD",
+    "serial_number": "38251129606471",
+    "model": "ET400Max",
+    "type": "dynamic",
+    "service_type": "PAYMENT"
+  },
+  "created_at": "2026-06-11"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561072",
+  "status": "FAILED",
+  "amount": -800,
+  "scheme": "gpay",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81572",
+  "device": {
+    "prefix": "QR",
+    "serial_number": null,
+    "model": "ET389",
+    "type": "static",
+    "service_type": "REFUND"
+  },
+  "created_at": "12-06-2026"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561073",
+  "status": "SUCCESS",
+  "amount": "2900",
+  "scheme": "paytm",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81573",
+  "device": {
+    "prefix": "IPNT",
+    "serial_number": "38251129606473",
+    "model": "ET500Pro",
+    "type": "dynamic",
+    "service_type": "PAYMENT"
+  },
+  "created_at": ""
+},
+{
+  "_id": "79cb73e48e7b1e83e1561074",
+  "status": null,
+  "amount": 1100,
+  "scheme": "bhim",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81574",
+  "device": {
+    "prefix": "MD",
+    "serial_number": "38251129606474",
+    "model": "ET390Lite",
+    "type": "unknown",
+    "service_type": "INVALID"
+  },
+  "created_at": "2026-06-14"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561075",
+  "status": "SUCCESS",
+  "amount": 5400,
+  "scheme": "gpay",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81575",
+  "device": {
+    "prefix": "QR",
+    "serial_number": "38251129606475",
+    "model": null,
+    "type": "static",
+    "service_type": "PAYMENT"
+  },
+  "created_at": "2026-06-15"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561076",
+  "status": "FIRED",
+  "amount": 8300,
+  "scheme": "gpay",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81576",
+  "device": {
+    "prefix": "IPNT",
+    "serial_number": "38251129606476",
+    "model": "ET389Pro A10",
+    "type": "dynamic",
+    "service_type": "NOTIFY"
+  },
+  "created_at": "2026-06-16"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561077",
+  "status": "FAILED",
+  "amount": 980,
+  "scheme": "phonepe",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81577",
+  "device": {
+    "prefix": "MD",
+    "serial_number": "38251129606477",
+    "model": "ET400Max",
+    "type": "static",
+    "service_type": "REFUND"
+  },
+  "created_at": "2026/06/17"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561078",
+  "status": "SUCCESS",
+  "amount": 6000,
+  "scheme": "paytm",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81578",
+  "device": {
+    "prefix": "QR",
+    "serial_number": "38251129606478",
+    "model": "ET389",
+    "type": "dynamic",
+    "service_type": "PAYMENT"
+  },
+  "created_at": null
+},
+{
+  "_id": "79cb73e48e7b1e83e1561079",
+  "status": "FIRED",
+  "amount": 1500,
+  "scheme": "bhim",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81579",
+  "device": {
+    "prefix": "IPNT",
+    "serial_number": "38251129606479",
+    "model": "ET500Pro",
+    "type": "static",
+    "service_type": "NOTIFY"
+  },
+  "created_at": "2026-06-19"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561080",
+  "status": "SUCCESS",
+  "amount": 3900,
+  "scheme": "gpay",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81571",
+  "device": {
+    "prefix": "MD",
+    "serial_number": "38251129606471",
+    "model": "ET389Pro A10",
+    "type": "unknown",
+    "service_type": "PAYMENT"
+  },
+  "created_at": "2026-06-20"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561081",
+  "status": "SUCCESS",
+  "amount": 4400,
+  "scheme": "phonepe",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81581",
+  "device": {
+    "prefix": "QR",
+    "serial_number": "38251129606481",
+    "model": "ET390Lite",
+    "type": "dynamic",
+    "service_type": "PAYMENT"
+  },
+  "created_at": "2026-06-21"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561082",
+  "status": "FAILED",
+  "amount": -300,
+  "scheme": "gpay",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81582",
+  "device": {
+    "prefix": "IPNT",
+    "serial_number": null,
+    "model": "ET389",
+    "type": "static",
+    "service_type": "REFUND"
+  },
+  "created_at": "22-06-2026"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561083",
+  "status": "PENDING",
+  "amount": "2400",
+  "scheme": "paytm",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81583",
+  "device": {
+    "prefix": "MD",
+    "serial_number": "38251129606483",
+    "model": "ET500Pro",
+    "type": "dynamic",
+    "service_type": "NOTIFY"
+  },
+  "created_at": "2026/06/23"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561084",
+  "status": null,
+  "amount": 5500,
+  "scheme": "bhim",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81584",
+  "device": {
+    "prefix": "QR",
+    "serial_number": "38251129606484",
+    "model": "ET400Max",
+    "type": "unknown",
+    "service_type": "INVALID"
+  },
+  "created_at": ""
+},
+{
+  "_id": "79cb73e48e7b1e83e1561085",
+  "status": "SUCCESS",
+  "amount": 6200,
+  "scheme": "gpay",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81585",
+  "device": {
+    "prefix": "IPNT",
+    "serial_number": "38251129606485",
+    "model": null,
+    "type": "static",
+    "service_type": "PAYMENT"
+  },
+  "created_at": null
+},
+{
+  "_id": "79cb73e48e7b1e83e1561086",
+  "status": "FIRED",
+  "amount": "abc",
+  "scheme": "unknown",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81586",
+  "device": {
+    "prefix": "MD",
+    "serial_number": "38251129606486",
+    "model": "ET389Pro A10",
+    "type": "dynamic",
+    "service_type": "INVALID"
+  },
+  "created_at": "2026-06-26"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561087",
+  "status": "SUCCESS",
+  "amount": 3100,
+  "scheme": "phonepe",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81587",
+  "device": {
+    "prefix": "QR",
+    "serial_number": "38251129606487",
+    "model": "ET390Lite",
+    "type": "static",
+    "service_type": "PAYMENT"
+  },
+  "created_at": "2026/06/27"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561088",
+  "status": "FAILED",
+  "amount": 920,
+  "scheme": "paytm",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81588",
+  "device": {
+    "prefix": "IPNT",
+    "serial_number": "38251129606488",
+    "model": "ET389",
+    "type": "dynamic",
+    "service_type": "REFUND"
+  },
+  "created_at": "2026-06-28"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561089",
+  "status": "SUCCESS",
+  "amount": 7900,
+  "scheme": "bhim",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81589",
+  "device": {
+    "prefix": "MD",
+    "serial_number": "38251129606489",
+    "model": "ET500Pro",
+    "type": "static",
+    "service_type": "PAYMENT"
+  },
+  "created_at": "2026-06-29"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561090",
+  "status": "PENDING",
+  "amount": 1400,
+  "scheme": "gpay",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81581",
+  "device": {
+    "prefix": "QR",
+    "serial_number": "38251129606481",
+    "model": "ET389Pro A10",
+    "type": "unknown",
+    "service_type": "NOTIFY"
+  },
+  "created_at": "2026-06-30"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561091",
+  "status": "SUCCESS",
+  "amount": 3700,
+  "scheme": "phonepe",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81591",
+  "device": {
+    "prefix": "IPNT",
+    "serial_number": "38251129606491",
+    "model": "ET400Max",
+    "type": "dynamic",
+    "service_type": "PAYMENT"
+  },
+  "created_at": "2026-07-01"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561092",
+  "status": "FAILED",
+  "amount": -850,
+  "scheme": "gpay",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81592",
+  "device": {
+    "prefix": "MD",
+    "serial_number": null,
+    "model": "ET389",
+    "type": "static",
+    "service_type": "REFUND"
+  },
+  "created_at": "02-07-2026"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561093",
+  "status": "SUCCESS",
+  "amount": "2600",
+  "scheme": "paytm",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81593",
+  "device": {
+    "prefix": "QR",
+    "serial_number": "38251129606493",
+    "model": "ET500Pro",
+    "type": "dynamic",
+    "service_type": "PAYMENT"
+  },
+  "created_at": ""
+},
+{
+  "_id": "79cb73e48e7b1e83e1561094",
+  "status": null,
+  "amount": 1000,
+  "scheme": "bhim",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81594",
+  "device": {
+    "prefix": "IPNT",
+    "serial_number": "38251129606494",
+    "model": "ET390Lite",
+    "type": "unknown",
+    "service_type": "INVALID"
+  },
+  "created_at": "2026-07-04"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561095",
+  "status": "SUCCESS",
+  "amount": 5600,
+  "scheme": "gpay",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81595",
+  "device": {
+    "prefix": "MD",
+    "serial_number": "38251129606495",
+    "model": null,
+    "type": "static",
+    "service_type": "PAYMENT"
+  },
+  "created_at": "2026-07-05"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561096",
+  "status": "FIRED",
+  "amount": 8400,
+  "scheme": "gpay",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81596",
+  "device": {
+    "prefix": "QR",
+    "serial_number": "38251129606496",
+    "model": "ET389Pro A10",
+    "type": "dynamic",
+    "service_type": "NOTIFY"
+  },
+  "created_at": "2026-07-06"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561097",
+  "status": "FAILED",
+  "amount": 990,
+  "scheme": "phonepe",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81597",
+  "device": {
+    "prefix": "IPNT",
+    "serial_number": "38251129606497",
+    "model": "ET400Max",
+    "type": "static",
+    "service_type": "REFUND"
+  },
+  "created_at": "2026/07/07"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561098",
+  "status": "SUCCESS",
+  "amount": 6100,
+  "scheme": "paytm",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81598",
+  "device": {
+    "prefix": "MD",
+    "serial_number": "38251129606498",
+    "model": "ET389",
+    "type": "dynamic",
+    "service_type": "PAYMENT"
+  },
+  "created_at": null
+},
+{
+  "_id": "79cb73e48e7b1e83e1561099",
+  "status": "FIRED",
+  "amount": 1600,
+  "scheme": "bhim",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81599",
+  "device": {
+    "prefix": "QR",
+    "serial_number": "38251129606499",
+    "model": "ET500Pro",
+    "type": "static",
+    "service_type": "NOTIFY"
+  },
+  "created_at": "2026-07-09"
+},
+{
+  "_id": "79cb73e48e7b1e83e1561100",
+  "status": "SUCCESS",
+  "amount": 4000,
+  "scheme": "gpay",
+  "machine_identifier": "67373b51-8e8f-4a94-9d90-d459c9c81591",
+  "device": {
+    "prefix": "IPNT",
+    "serial_number": "38251129606491",
+    "model": "ET389Pro A10",
+    "type": "unknown",
+    "service_type": "PAYMENT"
+  },
+  "created_at": "2026-07-10"
+}
+]
