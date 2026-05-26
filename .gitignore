@@ -1,0 +1,44 @@
+# Virtual Environment
+venv/
+.env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter / temp
+.ipynb_checkpoints/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# Build files
+build/
+dist/
+
+# Python package files
+*.egg-info/
+
+# Test / coverage
+.coverage
+htmlcov/
+
+# Local database files
+*.sqlite3
+
+# Large temporary processed files (optional)
+*.tmp
